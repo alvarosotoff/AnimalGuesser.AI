@@ -1,6 +1,6 @@
 # **Animal Quiz - README**
 
-Summary
+## Summary
 **Animal Quiz** is an interactive Python application that uses a series of yes/no questions to identify an animal. Built with Tkinter, the program progressively filters a dataset of animals based on user responses. If no match is found, users can contribute by adding their animal to improve the database. This project is part of the **Building AI course project**.
 
 ## Project Description
