@@ -29,7 +29,7 @@ Ensure you have Python installed on your system.
 ### Steps to Install and Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/animal-quiz.git
+   git clone https://github.com/alvarosotoff/AnimalGuesser.git
    cd animal-quiz
    ```
 2. Install dependencies:
@@ -38,14 +38,14 @@ Ensure you have Python installed on your system.
    ```
 3. Run the application:
    ```bash
-   python animal_quiz.py
+   python AnimalGuesser.py
    ```
 
 ## File Structure
-- `animal_quiz.py` - Main application script
+- `AnimalGuesser.py` - Main application script
 - `animals.csv` - Database of animals and their characteristics
 - `Perry.png` - Easter egg image
-- `Platypus.png` - Standard platypus image
+- `Platypus.png` - Standard platypus image for "no" easter egg
 
 ## License
 This project is licensed under the **MIT License** with an additional attribution requirement.
